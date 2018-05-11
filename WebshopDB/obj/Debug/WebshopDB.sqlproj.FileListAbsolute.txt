@@ -1,0 +1,9 @@
+C:\Users\CC7723\Documents\Visual Studio 2017\Projects\TestMemoryMVC\WebshopDB\bin\Debug\WebshopDB.dacpac
+C:\Users\CC7723\Documents\Visual Studio 2017\Projects\TestMemoryMVC\WebshopDB\bin\Debug\WebshopDB.dll
+C:\Users\CC7723\Documents\Visual Studio 2017\Projects\TestMemoryMVC\WebshopDB\bin\Debug\WebshopDB.pdb
+C:\Users\CC7723\Documents\Visual Studio 2017\Projects\TestMemoryMVC\WebshopDB\obj\Debug\WebshopDB.dll
+C:\Users\CC7723\Documents\Visual Studio 2017\Projects\TestMemoryMVC\WebshopDB\obj\Debug\WebshopDB.pdb
+C:\Users\CC7723\Documents\Visual Studio 2017\Projects\TestMemoryMVC\WebshopDB\obj\Debug\Model.xml
+C:\Users\CC7723\Documents\Visual Studio 2017\Projects\TestMemoryMVC\WebshopDB\obj\Debug\refactor.xml
+C:\Users\CC7723\Documents\Visual Studio 2017\Projects\TestMemoryMVC\WebshopDB\obj\Debug\postdeploy.sql
+C:\Users\CC7723\Documents\Visual Studio 2017\Projects\TestMemoryMVC\WebshopDB\obj\Debug\predeploy.sql

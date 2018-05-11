@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebshopApp", "TestMemoryMVC\WebshopApp.csproj", "{AEB4D423-ED7F-406E-BE95-741E70D6C297}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "WebshopDB", "WebshopDB\WebshopDB.sqlproj", "{6418B6F6-6BBF-4923-A980-8A545B20D7A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEB4D423-ED7F-406E-BE95-741E70D6C297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB4D423-ED7F-406E-BE95-741E70D6C297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB4D423-ED7F-406E-BE95-741E70D6C297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB4D423-ED7F-406E-BE95-741E70D6C297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6418B6F6-6BBF-4923-A980-8A545B20D7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6418B6F6-6BBF-4923-A980-8A545B20D7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6418B6F6-6BBF-4923-A980-8A545B20D7A1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6418B6F6-6BBF-4923-A980-8A545B20D7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6418B6F6-6BBF-4923-A980-8A545B20D7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6418B6F6-6BBF-4923-A980-8A545B20D7A1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83426746-AFA6-49E2-8416-481CE2730696}
+	EndGlobalSection
+EndGlobal

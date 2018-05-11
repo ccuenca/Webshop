@@ -1,0 +1,9 @@
+/packages
+/TestMemoryMVC/bin
+/TestMemoryMVC/obj
+npm-debug.log
+.DS_Store
+
+# IntelliJ
+*.iml
+/.idea

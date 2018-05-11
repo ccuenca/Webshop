@@ -1,0 +1,42 @@
+﻿@model TestMemoryMVC.ViewModels.ProductsViewModel
+
+@{
+    ViewBag.Title = "List";
+}
+
+
+<h2>Products</h2>
+
+@if (!Model.Products.Any())
+{
+    <p>We don't have any products yet.</p>
+}
+else
+{
+    <table id="products" class="table table-bordered table-hover">
+        <thead>
+            <tr>
+                <th>Code</th>
+                <th>Name</th>
+                <th>Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var product in Model.Products)
+            {
+            <tr>
+                <td>@product.Code</td>
+                <td>@product.Name</td>
+                <td>$@product.Price</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<br />
+
+<p>
+    @Html.ActionLink("New Product", "New", "Products", null, new { @class = "btn btn-primary" })
+</p>
+
